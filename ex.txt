@@ -1,9 +1,8 @@
-Exercício países -  Parte 04
+Após realizar o commit, apague o console.table(paises)
 
-Utilizando o método push() adicione os seguintes dados dentro da variável paises:
 
-'Brasil', 'Argentina', 'Colombia','Peru','Chile', 'Equador', 'Bosnia', 'Venezuela', 'Bolívia', 'Uruguai', 'Guiana', 'Suriname', 'Paraguai', 'Guiana Francesa'
+Agora imprima todos os países do array, mas que seja de posição por posição.
+Lembra como podemos fazer isso? Existem 3 maneiras…
 
-Imprima os valores armazenados na variável paises da maneira que apareça o seu índice e o que está armazenado em sua posição.
 
-Realizar o commit das alterações e enviar as modificações para o repositório remoto.
+Realizar o commit das alterações e enviar para o repositório remoto.
